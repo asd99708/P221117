@@ -1,9 +1,9 @@
 package Parent2;
 
-public class Child extends Parent{
+public class Child2 extends Parent{
 	public int ChildNo;
 	
-	Child(String name, String ssn, int childNo){
+	Child2(String name, String ssn, int childNo){
 		super(name, ssn);
 		this.ChildNo = childNo;
 	}

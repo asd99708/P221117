@@ -5,8 +5,8 @@ public class SportsCar extends Car {
 		speed +=10;
 	}
 	
-	public void stop() {
-		System.out.println("SportsCar를 멈춤");
-		speed = 0;
-	}
+//	public void stop() {
+//		System.out.println("SportsCar를 멈춤");
+//		speed = 0;
+//	}
 }
